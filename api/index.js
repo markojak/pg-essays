@@ -11,7 +11,7 @@ const head =
     '</head>'
 
 const body =
-    `<footer><p>Site by <a href="https://meagher.co">Tom Meagher</a>. Source on <a href="${pkg.repository}">GitHub</a>.</p></footer>` +
+    `<footer><p>Site by <a href="https://markojak.com">Marko Jak</a>. </p></footer>` +
     '<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>' +
     '<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" /></noscript>'
 
